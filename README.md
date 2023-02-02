@@ -1,13 +1,10 @@
-# Sample Hardhat Project
+# Electrophorus_Electricus_Token
+A small implementation of ERC20 token mechanism using openzeppelin templates
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Initial Supply: 1 000 000 tokens
+10% for Development
+10% for Marketing 
+10% for treasury 
+70% mining rewards
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+add a mechanism for token burn
