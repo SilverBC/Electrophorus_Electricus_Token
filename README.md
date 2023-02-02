@@ -8,3 +8,5 @@ Initial Supply: 1 000 000 tokens
 70% mining rewards
 
 add a mechanism for token burn
+
+add a faucet
