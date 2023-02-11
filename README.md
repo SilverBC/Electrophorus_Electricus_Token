@@ -7,6 +7,6 @@ Initial Supply: 1 000 000 tokens
 10% for treasury 
 70% mining rewards
 
-add a mechanism for token burn
+added a mechanism for token burn
 
-add a faucet
+added a faucet
